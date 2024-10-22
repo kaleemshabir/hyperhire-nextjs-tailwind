@@ -42,7 +42,7 @@ export default function Form() {
         참고 영상
       </div>
 
-      <div className="w-[901px] h-[34px] text-[#FF6D51] font-pretendard">
+      <div className="w-[901px] pl-4 h-[34px] text-[#FF6D51] font-pretendard">
         <strong>*</strong>
         참고할만한 영상이나 원하시는 영상과 유사한 영상의 링크 주소를 적어주시면
         더 정확히 안내해드리겠습니다.
