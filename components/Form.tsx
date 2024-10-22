@@ -27,11 +27,9 @@ export default function Form() {
         휴대폰 번호
       </div>
 
-      <div className="flex flex-col bg-[#141414] w-[901px] h-[278px] pl-[40px] opacity-60 font-bold text-white  text-[20px] leading-[23.87px] rounded-tl-[10px] border border-t-0 rounded-[10px] border-solid border-[#FFFFFF26] mb-4 leadning-[30px] pt-[92px]">
-        <span className="pb">
-          의뢰하실 영상내용 아래 예시를 참고하셔서 이 중 편하신 내용을
-          기재해주세요.
-        </span>
+      <div className="flex flex-col bg-[#141414] w-[901px] h-[278px] pl-[40px] opacity-60 font-bold text-white  text-[20px] leading-[30px] rounded-tl-[10px] border border-t-0 rounded-[10px] border-solid border-[#FFFFFF26] mb-4 leadning-[30px] pt-[92px]">
+        <span>의뢰하실 영상내용</span>
+        <span>아래 예시를 참고하셔서 이 중 편하신 내용을 기재해주세요.</span>
 
         <span className="font-normal w-[686px]">
           고객님의 비즈니스 유형 : 관공서/일반기업/소상공인 등 영상 장르 :
